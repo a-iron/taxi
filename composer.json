@@ -1,0 +1,10 @@
+{
+    "name": "a-iron/taxi",
+    "type": "project",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}

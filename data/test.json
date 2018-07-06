@@ -1,0 +1,16 @@
+{
+  "park": {
+    "places": 30
+  },
+  "drivers": [
+    {
+      "type": "pro"
+    }
+  ],
+  "cars": [
+    {
+      "brand": "Homba",
+      "km": 13951
+    }
+  ]
+}
